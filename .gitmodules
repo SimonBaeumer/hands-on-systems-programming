@@ -1,0 +1,3 @@
+[submodule "Hands-on-System-Programming-with-Linux"]
+	path = Hands-on-System-Programming-with-Linux
+	url = git@github.com:PacktPublishing/Hands-on-System-Programming-with-Linux.git
